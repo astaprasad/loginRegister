@@ -8,16 +8,17 @@ JWT Authentication
 Error Codes
 Status: 400 Bad Request Status: 200 OK
 
-https://documenter.getpostman.com/view/10726949/U16evoGW
+API Documentation 
+https://documenter.getpostman.com/view/10726949/U16gQTNc
 
 POST
-http://localhost:3000/users/register
+https://spakassignment.herokuapp.com/users/register
 
 POST
-http://localhost:3000/users/login
+https://spakassignment.herokuapp.com/users/login
 
 POST
-http://localhost:3000/users/search
+https://spakassignment.herokuapp.com/users/search
 
 GET
-http://localhost:3000/users/logout
+https://spakassignment.herokuapp.com/users/logout
