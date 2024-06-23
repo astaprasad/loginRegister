@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const DB1 = "mongodb+srv://astaprasad:Hargram3950@cluster0.dqabi.mongodb.net/spakassignment?retryWrites=true&w=majority"
-const DB = "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.2.2"
+const DB = "mongodb+srv://admin:admin@cluster0.xkcjuue.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     mongoose.connect(DB,{
         useNewUrlParser:true,
         useCreateIndex:true,
